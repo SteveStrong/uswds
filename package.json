@@ -87,7 +87,7 @@
     "chrome-remote-interface": "^0.25.6",
     "cross-spawn": "^2.1.5",
     "css-mqpacker": "^7.0.0",
-    "cssnano": "^4.1.10",
+    "cssnano": "^9.0.5",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-config-prettier": "^6.6.0",
